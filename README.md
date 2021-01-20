@@ -1,5 +1,6 @@
 # rocket-script
-
+## :warning:所有内容均来自互联网 不保证可用性安全性
+---
 这是我个人的脚本配置，目前使用的是小火箭（Shadowrocket）:rocket:，所以其他脚本工具是否兼容我也管不着:grimacing:
 
 1. shadowrocket 导入配置
